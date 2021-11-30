@@ -1,4 +1,4 @@
-### Hi! I'm Heitor José Tessaro. i have a master's degree in electrical engineering, and I am currently studying web development.. 
+### Hi! I'm Heitor José Tessaro. I have a master's degree in electrical engineering, and I am currently studying web development.
 
 <div align="center">
   <a href="https://github.com/heitortessaro">

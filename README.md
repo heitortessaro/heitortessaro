@@ -30,6 +30,7 @@ You can access [my portfolio with this link](https://heitortessaro.github.io/ind
   <h3>Libraries 📚</h3>
   <div>
     <img align="center" alt="Heitor-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> 
+    <img align="center" alt="Heitor-Redux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"> 
     <img align="center" alt="Heitor-Jest" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg"> 
     <img align="center" alt="Heitor-Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg"> 
   </div> 

@@ -3,7 +3,7 @@
 ## About Me
 I have a master's degree in electrical engineering and work as a technical writer nowadays. I'm currently finishing the front-end module of the full-stack web developer course at Trybe. 
 
-Previously, I worked for 04 years as a researcher at two federal universities and 02 years as a college professor. Furthermore, I was also a member of AIESEC during an exchange program at Arizona State University.
+Previously, I worked for 04 years as a researcher at two federal universities and 02 years as a college professor in Brazil. Furthermore, I was also a member of AIESEC during an exchange program at Arizona State University.
 
 I am passionate about learning, science, and economics. Today, I look for activities that can positively impact people's lives.
 

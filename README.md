@@ -1,7 +1,7 @@
 ## Hi! I'm Heitor José Tessaro. 
 
 ## About Me
-I have a master's degree in electrical engineering and work as a technical writer nowadays. I just finished the front-end module, and I'm currently starting the front-end module of the full-stack web developer course at Trybe. 
+I have a master's degree in electrical engineering and work as a technical writer nowadays. I just finished the front-end module, and I'm currently starting the back-end module of the full-stack web developer course at Trybe. 
 
 Previously, I worked for 04 years as a researcher at two federal universities and 02 years as a college professor in Brazil. Furthermore, I was also a member of AIESEC during an exchange program at Arizona State University.
 

@@ -14,6 +14,8 @@ Since 2021 I have been developing front-end and back-end projects using HTML, CS
 ## My Portfolio
 You can access [my portfolio with this link](https://portifolio-heitortessaro.vercel.app/). The page is under constant development. If you have any feedback, please, let me know.
 
+You can also find the list of projects I have developed during the Web Development course at Trybe using this [link](https://github.com/heitortessaro/trybe-projects-organizer/blob/main/README.md). The Readme file contains the links for each GitHub project, a brief description, and the main technologies used. (The list is not finished)
+
 ## My GitHub Stats
 <div align="center">
   <a href="https://github.com/heitortessaro">

@@ -7,6 +7,8 @@ Nowadays, I am transitioning my career to the Web Development area. Since Novemb
 
 On my GitHub page, you can find the projects I have been developing since 2021. The projects mainly use HTML, CSS, Javascript, Tailwind, React, Redux, automated tests with Jest, NodeJS, Python, databases like MySQL, Git, Docker, and Agile Methodology ( Kanban, Scrum ).
 
+Currently I am studing OOP, SOLID and Clean Architecture principles using Typescript.
+
 ## My Portfolio & Projects
 You can access **[my portfolio with this link](https://portifolio-heitortessaro.vercel.app/)**. The page is under constant development. If you have any feedback, please, let me know.
 

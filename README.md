@@ -12,7 +12,7 @@ Currently I am studing OOP, SOLID and Clean Architecture principles using Typesc
 ## My Portfolio & Projects
 You can access **[my portfolio with this link](https://portifolio-heitortessaro.vercel.app/)**. The page is under constant development. If you have any feedback, please, let me know.
 
-You can also find the list of projects I have developed during the Web Development course at Trybe using this [link](https://github.com/heitortessaro/trybe-projects-organizer/blob/main/README.md). The Readme file contains the links for each GitHub project, a brief description, and the main technologies used. (The list is not finished)
+You can also find a list of the main projects I have developed during the Web Development course at Trybe using this [link](https://github.com/heitortessaro/trybe-projects-organizer/blob/main/README.md). The Readme file contains the links for each GitHub project, a brief description, and the main technologies used. 
 
 ## My GitHub Stats
 <div align="center">

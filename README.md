@@ -3,16 +3,12 @@
 ## About Me
 I am passionate about innovation, science, and technology, as these are the foundations for developing a better world.
 
-My journey involved the technical and academic areas. The desire to discover and develop new solutions led me to work as a researcher. Working as a researcher made me develop skills in management, time management, and learning to learn.
+Nowadays, I am transitioning my career to the Web Development area. Since November 2021, I have been a student at the Trybe Full-Stack Web Development course. I have also worked as a Technical Writer for engineering companies as a freelancer, developing, editing, revising technical manuals, and creating technical content.
 
-Most projects I participated in as a researcher had as objective develop software solutions. These experiences motivated me to make a career transition to the development area, leading me to join the Trybe Full-Stack Web Development course.
+On my GitHub page, you can find the projects I have been developing since 2021. The projects mainly use HTML, CSS, Javascript, Tailwind, React, Redux, automated tests with Jest, NodeJS, Python, databases like MySQL, Git, Docker, and Agile Methodology ( Kanban, Scrum ).
 
-In parallel with my studies in the last year, I have been working as a technical writer, developing, editing, revising technical manuals, and creating technical content.
-
-Since 2021 I have been developing front-end and back-end projects using HTML, CSS, Javascript, Tailwind, React, Redux, automated tests with Jest, NodeJS, Python, databases like MySQL, Git, Docker, and Agile Methodology ( Kanban, Scrum ).
-
-## My Portfolio
-You can access [my portfolio with this link](https://portifolio-heitortessaro.vercel.app/). The page is under constant development. If you have any feedback, please, let me know.
+## My Portfolio & Projects
+You can access **[my portfolio with this link](https://portifolio-heitortessaro.vercel.app/)**. The page is under constant development. If you have any feedback, please, let me know.
 
 You can also find the list of projects I have developed during the Web Development course at Trybe using this [link](https://github.com/heitortessaro/trybe-projects-organizer/blob/main/README.md). The Readme file contains the links for each GitHub project, a brief description, and the main technologies used. (The list is not finished)
 

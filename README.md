@@ -16,13 +16,6 @@ You can also find a list of the main projects I have developed during the Web De
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=heitortessaro&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heitortessaro&layout=compact&langs_count=7&theme=dark"/>
 </div>
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=heitortessaro&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=heitortessaro&repo=convoychat" />
-</a>
   
 ### Technologies I've Worked With
 

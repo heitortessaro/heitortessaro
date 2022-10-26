@@ -3,7 +3,7 @@
 #### My name is Heitor, I'm a Full-Stack Developer & Technical Writer working in Brazil.
 
 - 🏢 I'm currently working at **Write Choice**
-- 🏫 I'm studing **Web Development** at **Trybe**
+- 🏫 I'm studying **Web Development** at **Trybe**
 - 🌱 Learning about OOP, SOLID, and Clean Architecture principles using Typescript, Python, and C#
 
 ### My Portfolio & Projects

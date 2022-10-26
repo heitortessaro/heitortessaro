@@ -3,7 +3,8 @@
 #### My name is Heitor, I'm a Full-Stack Developer & Technical Writer working in Brazil.
 
 - 🏢 I'm currently working at **Write Choice**
-- 🌱 Learning about OOP, SOLID, and Clean Architecture principles using Typescript
+- 🏫 I'm studing **Web Development** at **Trybe**
+- 🌱 Learning about OOP, SOLID, and Clean Architecture principles using Typescript, Python, and C#
 
 ### My Portfolio & Projects
 You can access **[my portfolio here](https://portifolio-heitortessaro.vercel.app/)**. The page is under constant development. If you have any feedback, please, let me know.

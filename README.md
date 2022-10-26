@@ -7,9 +7,8 @@
 - 🌱 Learning about OOP, SOLID, and Clean Architecture principles using Typescript, Python, and C#
 
 ### My Portfolio & Projects
-You can access **[my portfolio here](https://portifolio-heitortessaro.vercel.app/)**. The page is under constant development. If you have any feedback, please, let me know.
-
-You can also find a list of the main projects I have developed during the Web Development course at Trybe using this [link](https://github.com/heitortessaro/trybe-projects-organizer/blob/main/README.md). The Readme file contains the links for each GitHub project, a brief description, and the main technologies used. 
+- 🖥️ Access **[my portfolio HERE](https://portifolio-heitortessaro.vercel.app/)**. The page is under constant development. 
+- 📑 Access a list of projects I've developed during the Web Development course at Trybe [HERE](https://github.com/heitortessaro/trybe-projects-organizer/blob/main/README.md). 
 
 ### My GitHub Stats
 <div align="center">

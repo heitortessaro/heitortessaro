@@ -1,13 +1,13 @@
 ### Hi there 👋
 
-#### My name is Heitor, I'm a Full-Stack Developer & Technical Writer working in Brazil.
+#### My name is Heitor, I'm a Technical Writer & Full-Stack Developer from Brazil.
 
-- 🏢 I'm currently working at **Write Choice**
-- 🏫 I'm studying **Web Development** at **Trybe**
-- 🌱 Learning about OOP, SOLID, and Clean Architecture principles using Typescript, Python, and C#
+- 🏢 I currently work at Write Choice as **Lead Technical Writer**.
+- 🌱 Learning about software and API documentation, doc-as-code, API testing, and some programming languages and best practices. 
 
 ### My Portfolio & Projects
-- 🖥️ Access **[my portfolio HERE](https://portifolio-heitortessaro.vercel.app/)**. The page is under constant development. 
+- I have published some articles about technical documentation on my LinkedIn account. [Check it out](https://www.linkedin.com/in/heitortessaro/recent-activity/articles/).
+- 🖥️ Access **[my portfolio HERE](https://portifolio-heitortessaro.vercel.app/)**. Since the beginning of 2023, I've focussed on technical writing, not adding new projects to the page. 
 - 📑 Access a list of projects I've developed during the Web Development course at Trybe [HERE](https://github.com/heitortessaro/trybe-projects-organizer/blob/main/README.md). 
 
 ### My GitHub Stats
@@ -18,6 +18,19 @@
 </div>
   
 ### Technologies I've Worked With
+
+#### Documentation
+
+A short list of tools I've used to create documentation:
+
+- Docusaurus
+- MkDocs
+- Readme.io
+- Localize
+- Crowdin
+- Illustrator
+- InDesign
+
 
 #### FrontEnd Skills
 
